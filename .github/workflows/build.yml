@@ -27,3 +27,4 @@ jobs:
         with:
           INPUT_DIR: './data'
           MUNICIPALITY_CODE: '28207'
+          NAME: '伊丹市オープンデータマップ(仮)'
